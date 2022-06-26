@@ -1,4 +1,5 @@
 # Kodluyoruz İlk Repo
+![](file:///C:/Users/kkema/Downloads/kodluyoruzilkrepo/2022-06-26%20(2).png)
 bu repo Kodluyoruz Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet index.html barındırıyor.
 
 ## Installation
